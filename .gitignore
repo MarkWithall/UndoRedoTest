@@ -1,0 +1,9 @@
+syntax: glob
+_[Rr]eSharper*
+[Bb]in/
+[Oo]bj/
+[Mm]etric[Rr]esults/
+*.user
+*.DotSettings
+*.suo
+*.swp
